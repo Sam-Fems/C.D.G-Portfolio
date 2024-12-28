@@ -1,14 +1,14 @@
-import React from 'react'
+/* import React from 'react'
 import './Navbar.css'
 const Navbar = () => {
   return (
     <div className='nav-bar'>
       <h1 className='logo'>C . D . G</h1>
       <ul>
-        <li><a href="#Home">Home</a></li>
-        <li><a href="#About">About</a></li>
-        <li><a href="#Services">Services</a></li>
-        <li><a href="#Projects">Projects</a></li>
+        <li><a href="#Home">About us</a></li>
+        <li><a href="#About">Team</a></li>
+        <li><a href="#Services">Project</a></li>
+        <li><a href="#Projects">Contact</a></li>
       </ul>
       <div className="btns">
         <button className='btns'>Contact</button>
@@ -17,4 +17,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default Navbar */
